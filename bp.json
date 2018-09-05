@@ -1,0 +1,19 @@
+{
+  "producer_account_name": "ilovefibosbp",
+  "org": {
+    "candidate_name": "I Love FIBOS",
+    "website": "http://ilovefibos.com",
+    "email": "lowwor@foxmail.com"
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Tokyo",
+        "country": "JP",
+        "latitude": 34.8,
+        "longitude": 138.4
+      },
+      "node_type": "producer"
+    }
+  ]
+}
